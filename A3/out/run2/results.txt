@@ -1,0 +1,13 @@
+*** Results ***
+View success_rate.png for the corresponding plot.
+
+After 100 transactions: 70 succeeded (success rate = 70.00%)
+After 200 transactions: 136 succeeded (success rate = 68.00%)
+After 300 transactions: 194 succeeded (success rate = 64.67%)
+After 400 transactions: 249 succeeded (success rate = 62.25%)
+After 500 transactions: 292 succeeded (success rate = 58.40%)
+After 600 transactions: 339 succeeded (success rate = 56.50%)
+After 700 transactions: 400 succeeded (success rate = 57.14%)
+After 800 transactions: 461 succeeded (success rate = 57.62%)
+After 900 transactions: 504 succeeded (success rate = 56.00%)
+After 1000 transactions: 552 succeeded (success rate = 55.20%)
